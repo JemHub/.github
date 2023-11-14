@@ -1,4 +1,13 @@
-## Hi there 👋
+## Jem Hub
+Jem Hub is the center of all of our products.
+
+Memories are incredibly powerful. Yet, sometimes we forget. Even despite having all our pictures on our phones. So what if you could choose which memories mattered, and connected meaning to them? Just one tap away, and you'll find various connections to just a single moment.
+
+### Products
+A **Jem** is a memory that can be interacted with.
+
+* **Jem Snap**: A digital photo printed as a instant memory
+* **Jem Link**: A collection of links associated to a memory
 
 <!--
 
